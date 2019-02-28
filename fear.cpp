@@ -1,3 +1,4 @@
+// its generates the sequence of nos that are not consecutive.
 #include<iostream>
 using namespace std;
 
